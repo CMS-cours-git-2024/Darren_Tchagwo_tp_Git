@@ -1,0 +1,1 @@
+print("le cours d'initiation Git est assez fun")
