@@ -1,1 +1,1 @@
-print("le cours d'initiation Git est assez fun")
+print("Nous faisons le travail pratique")
